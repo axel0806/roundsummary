@@ -32,3 +32,7 @@ dotnet build -c Release -o dist
 ```
 
 Copy `dist/RoundSummary.dll` and `dist/RoundSummary.deps.json` to `addons/counterstrikesharp/plugins/RoundSummary/` on the server, then run `css_plugins load RoundSummary`.
+
+## License
+
+[MIT](LICENSE)
